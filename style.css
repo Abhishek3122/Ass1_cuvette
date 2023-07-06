@@ -1,0 +1,33 @@
+.Inspiring{
+    width: 100%;
+    height: 100px;
+    top:0px;
+font-size: 36px;
+font-family: Inter;
+font-style: normal;
+font-weight: 700;
+line-height: 150%;
+margin-left: 0px;
+margin-top: 0px;
+}
+.footer{
+    width: 100%;
+height: 300px;
+
+    background: var(--the-black, #282828);
+}
+.orn{
+    background: var(--the-brown, #FFCD9E);
+    width: 100%;
+height: 700px;
+
+margin-top: -40px;
+}
+.search{
+    
+}
+.show{
+   
+color: #282828;
+
+}
