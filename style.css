@@ -1,10 +1,22 @@
 *{
     margin:0px}
+.insta{
+    right:250px;
+    position: absolute;
+    top:0px;
+    /* position: relative; */
+}
+.our{
+    top:60px;
+    position: relative;
+    width:350px;
+    left:136px;
+}    
 .haat{
-    width: 393.52px;
-  height: 402.45px;
+    width: 493.52px;
+  height: 500.45px;
   position: absolute;
-  top: 1px;
+  top: 20px;
   right: 130px;
   text-align: end;
 }
@@ -35,10 +47,46 @@ height: 400px;
 margin-top: 0px;
 }
 .search{
-    
+    top:105px;
+    left:136px;
+    position:relative;
 }
 .show{
-   
+   top:85px;
 color: #282828;
+position: relative;
+left:136px;
 
+}
+.free{
+    color: azure;
+}
+.lefftside{
+    top:20px;
+    position: relative;
+left:100px;
+color:azure;
+}
+.paragraph-spacing{
+    margin-bottom: 10px;
+}
+.Free{
+    color: azure;
+    margin-top: 10px;
+}
+.box{
+    border-radius: 8px;
+border: 4px solid #000;
+background: #FFF;
+width: 344px;
+height: 30px;
+flex-shrink: 0;
+}
+.box1{
+    border-radius: 8px;
+    background-color: black;
+    color: #FFF;
+    width: 144px;
+    height: 40px;
+    flex-shrink: 0;
 }
